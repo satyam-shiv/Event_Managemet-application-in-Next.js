@@ -7,7 +7,7 @@ import EventCard from './EventCard';
 const Feature = () => {    
   return ( 
     <div className='mt-25'>
-      <p>Feature Events</p>
+      <p>Feature Events Itenary</p>
 
       <ul className='events'>
         {eventsImage.map((item , index) => (
